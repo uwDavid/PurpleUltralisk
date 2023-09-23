@@ -1,5 +1,5 @@
-👋 Hi, I’m David (@uwDavid)
-👀 Currently looking for Data Engineering or Software Engineering roles.
+👋 Hi, I’m David (@uwDavid)\
+I'm a fullstack developer with a passion towards data science.
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -17,7 +17,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
 ## Tools:
-
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
@@ -26,8 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-
-![uwDavid's github stats](https://github-readme-stats.vercel.app/api?username=uwDavid&show_icons=true)
 
 <summary>
 Noteable Projects
